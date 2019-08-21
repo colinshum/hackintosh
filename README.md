@@ -17,11 +17,11 @@
 | Intel i7 8700K | Alienware AW3418DW 34" 1440p Ultrawide Monitor |
 | ASUS Strix Z370-I | LG 27UD59P-B 27" 4K IPS Monitor |
 | 32GB G.Skill Trident Z RGB DDR4-2400 | Logitech MX Master 2S |
-| Sapphire Pulse RX 580 8GB | Apple Magic Trackpad 2 |
-| Dell M.2 DW 1650 Wireless AC/BT Card | TADA68 - Zealios 62g |
+| XFX Vega 64 8GB | Apple Magic Trackpad 2 |
+| Dell M.2 DW 1650 Wireless AC/BT Card | TOFU 60 - Tealios v2 |
 | Ghost S1 - Ash |
 | Noctua NH-L12 |
-| Silverstone SX-500LG |
+| Corsair SF750 |
 
 ---
 
