@@ -14,12 +14,12 @@
 
 | Parts List    | Peripherals |
 | ------------- | ----------- |
-| Intel i7 8700K | Alienware AW3418DW 34" 1440p Ultrawide Monitor |
-| ASUS Strix Z370-I | LG 27UD59P-B 27" 4K IPS Monitor |
-| 32GB G.Skill Trident Z RGB DDR4-2400 | Logitech MX Master 2S |
+| Intel i7 8700K | Alienware AW3418DW 34" 1440p120hz Ultrawide Monitor |
+| ASUS Strix Z370-I | LG 27UL850 27" 4K IPS Monitor |
+| 32GB G.Skill Trident Z RGB DDR4-2400 | Acer VG270UP 1440p144hz IPS Monitor |
 | XFX Vega 64 8GB | Apple Magic Trackpad 2 |
-| Dell M.2 DW 1650 Wireless AC/BT Card | TOFU 60 - Tealios v2 |
-| Ghost S1 - Ash |
+| Dell M.2 DW 1650 Wireless AC/BT Card | MX Master 3 |
+| Ghost S1 - Ash | RAMA M60-A |
 | Noctua NH-L12 |
 | Corsair SF750 |
 
