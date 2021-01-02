@@ -1,7 +1,7 @@
 # Hackintosh
 ## Getting Started
 
-This repository is tested and working with OpenCore 0.6.4 and macOS Mojave 10.14.6. In order to use my `config.plist`, you must provide your own serial numbers as described in the OpenCore installation guide. 
+This repository is tested and working with OpenCore 0.6.4 and macOS Mojave 10.14.6/Big Sur 11.1. In order to use my `config.plist`, you must provide your own serial numbers as described in the OpenCore installation guide. 
 
 ## Components
 
